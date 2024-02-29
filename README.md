@@ -27,7 +27,7 @@ The project utilizes reinforcement learning algorithms such as A2C (Advantage Ac
     - Develop and add necessary features to the data.
 
 2. Train the model:
-    - Run the `train.py` script to train the model on prepared data.
+    - Run the `main.py` script to train the model on prepared data.
 
 3. Evaluate performance:
     - Utilize the trained model to test on new data and evaluate its performance.
@@ -35,7 +35,6 @@ The project utilizes reinforcement learning algorithms such as A2C (Advantage Ac
 ## File Structure
 
 - `main.py`: Main script for running training and trading.
-- `train.py`: Script for model training.
 - `requirements.txt`: File containing the project's dependency list.
 - `data/`: Directory for storing historical cryptocurrency exchange data.
 - `models/`: Directory for saving trained models.
@@ -80,7 +79,7 @@ The project utilizes reinforcement learning algorithms such as A2C (Advantage Ac
     - Разработайте и добавьте необходимые признаки в данные.
     
 2. Обучите модель:
-    - Запустите скрипт `train.py`, чтобы обучить модель на подготовленных данных.
+    - Запустите скрипт `main.py`, чтобы обучить модель на подготовленных данных.
     
 3. Оцените производительность:
     - Используйте обученную модель для тестирования на новых данных и оценки ее производительности.
@@ -88,7 +87,6 @@ The project utilizes reinforcement learning algorithms such as A2C (Advantage Ac
 ## Файловая структура
 
 - `main.py`: Основной скрипт для запуска обучения и торговли.
-- `train.py`: Скрипт для обучения модели.
 - `requirements.txt`: Файл, содержащий список зависимостей проекта.
 - `data/`: Директория для хранения исторических данных криптовалютных бирж.
 - `models/`: Директория для сохранения обученных моделей.
