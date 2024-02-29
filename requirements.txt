@@ -1,0 +1,8 @@
+datetime
+pandas
+numpy
+stable-baselines3
+torch
+pandas-ta
+gym
+gymnasium
