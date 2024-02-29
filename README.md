@@ -11,7 +11,8 @@ The project utilizes reinforcement learning algorithms such as A2C (Advantage Ac
 1. Clone the repository to your machine:
 
     ```bash
-    https://github.com/Djtimtimtim/RL-MODEL-AGENT-A2C-BINANCE.git
+    git clone https://github.com/Djtimtimtim/RL-MODEL-AGENT-A2C-BINANCE.git
+
     ```
 
 2. Install dependencies by running the following command:
@@ -63,7 +64,8 @@ The project utilizes reinforcement learning algorithms such as A2C (Advantage Ac
 1. Клонируйте репозиторий на ваш компьютер:
 
     ```bash
-    https://github.com/Djtimtimtim/RL-MODEL-AGENT-A2C-BINANCE.git
+    git clone https://github.com/Djtimtimtim/RL-MODEL-AGENT-A2C-BINANCE.git
+
     ```
 
 2. Установите зависимости, запустив следующую команду:
